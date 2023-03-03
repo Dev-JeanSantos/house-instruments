@@ -1,9 +1,10 @@
 import React from 'react';
 import "./assets/styles/custom.scss"
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <h1>Ola Mundo</h1>
+    <Navbar />
   );
 }
 
