@@ -1,7 +1,26 @@
-.main-navbar{
+.main-navbar {
     background-color: #BD2A2E;
-    height: 60px;
 }
-.container-image{
-    height: 57px ;
+
+.container-navbar{
+        display: flex;}
+
+.container-image {
+    height: 57px;
+    margin: 0 20px 0 20px;
 }
+
+.css-13cymwt-control {
+    margin-top: 10px;
+    height: 30px;
+    width: 175px;
+    opacity: 1 !important;
+    border-radius: 37px !important;
+
+
+}
+
+/* .css-1hb7zxy-IndicatorsContainer{
+    width: 0px;
+} */
+
